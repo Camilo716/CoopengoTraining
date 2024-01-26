@@ -1,0 +1,3 @@
+[submodule "tryton-training"]
+	path = tryton-training
+	url = https://github.com/coopengo/tryton-training.git
